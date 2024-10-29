@@ -3,6 +3,12 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+# Dictionary files
+dictionary.txt
+
+# Clang Format Files
+_clang-Format
+
 # User-specific files
 *.rsuser
 *.suo
