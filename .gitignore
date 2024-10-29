@@ -9,6 +9,9 @@ dictionary.txt
 # Clang Format Files
 _clang-Format
 
+# CMakePresets
+CMakePresets.json
+
 # User-specific files
 *.rsuser
 *.suo
